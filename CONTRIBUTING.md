@@ -1,7 +1,5 @@
 # Contributing
 
-## Its my first contribution
-
 
 ## Overview on how-to contribute
 
